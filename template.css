@@ -1,0 +1,611 @@
+*{padding: 0;
+    margin: 0;}
+.overallcontainer{
+    height:5100px;
+    width: 100%;
+    background-color:green;
+
+}
+.firstpagecontainer{
+    height: 730px;
+    width: 100%;
+    background-color: purple;
+}
+.firstbox{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color:white ;
+    font-size:xx-large;
+}
+.secondbox{background-color: #eeeeee;
+    height: 60px;
+    width:90%;
+    margin-left: 60px;
+    border-radius: 10px;
+    }
+
+    nav,ul,li{
+        display:inline-block;
+        margin-top: 8px;
+        padding-left: 70px;
+        text-align: center;
+        font-size:large;
+        }
+        .thiredbox{
+            border-radius: 10px;
+            height:670px;
+            width: 90%;
+            / background-color: #f89cab; /
+            margin-left: 60px;}
+            
+
+            .secondcontainer{
+                height: 660px;
+                width: 111.1%;
+                background-color: transparent;
+
+            }
+            .leftsidebox{
+                height: 600px;
+                width: 57.8%;
+                background-color:pink;
+                float: left;
+                margin-left: ;
+           
+            }
+            .headingone{
+    background-color: transparent;
+                width: 60%;
+                color: white;   
+                text-align: left;
+              font-size: 50px;
+            margin-left: 160px;
+            margin-top: 200px;
+            }
+            .firstpageparas{
+                color: white;
+                height: 120px;
+            text-align: left;
+                width: 80%;
+            margin-left: 160px;               background-color:transparent;
+            }
+            .contactbox{
+                height: 40px;
+                width: 17%;
+                background-color:#dc3545;
+                margin-left: 160px;
+                margin-top: 30PX;
+                text-align: center;
+                
+                padding-top: 10px;
+                color: white;
+                border-radius:5px;
+            }
+            .swipebox{
+                height: 30px;
+                width: 18%;
+                background-color:white;
+                margin-left: 70px;
+
+             text-align: center;
+                border-radius: 8px;
+            }
+
+            .rightsidebox{
+                height: 600px;
+                width: 32%;
+                background-color:#f89cab;
+            float: right;
+            margin-right: 90px;
+            }
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 25px;
+  }
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-weight: normal;
+    font-size: 13px;
+    color: #0000;
+  }
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: medium;
+  }
+
+.secondpagecontainer{
+    
+    height: 800px;
+    width: 1425px;
+    background-color:white;
+    margin-top: 80px;
+    }
+    .latestproducts{
+        height: 60px;
+        width: 1425px;
+      margin-top: 5px;
+      background-color: white;
+      
+    }
+    .secondheading
+    {
+        width: 350px;
+    color:black;   
+    padding-top: 20px;
+    padding-left: 590px;
+    text-align: left;
+    }
+    .holdingbox{
+        height: 800px;
+        width: 1400px;
+        background-color:white;
+        padding-left: 90px;
+    }
+    .eightbox{
+        margin-top: 20px;
+        height: 280px;
+        width: 290px;
+        background-color: #eeeeee;
+        margin-left: 31px;
+        display: inline-block;
+    }
+    .new{
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 40px;
+        height: 50px;
+        width: 50px;
+    background-color:white;  
+   
+  }
+    .round{
+        padding-top: 10px;
+        text-align: center;
+        color:black;
+        
+    }
+    .ring{
+        margin-left: 60px;
+        background-color: #eeeeee;
+        height: 160px;
+        width: 100px;
+        display: inline-block;
+        padding-left: 20px;
+        padding-top: 15px;
+         }
+
+.productnamebox{
+
+    height: 40px;
+    color: white;
+    background-color:#none;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+   display: inline-block; 
+}
+
+.nameoftheproduct{
+    height: 30px;
+    width: 130px;
+    background-color:#eeeeee;
+    display: inline-block;
+    color: black;
+}
+.price{
+    padding-top: 2px;
+    padding-right: 20px;
+    height: 30px;
+    width: 30px;
+    background-color:#eeeeee;
+    float: right;
+    text-align: center;
+    color:#c21146;
+}
+.amount{
+    height: 30px;
+    width: 50px;
+    background-color:   #eeeeee;
+    float: right;
+    text-align: left;
+    color: black;
+}
+
+
+        .viewall{
+            height: 60px;
+            width: 1425px;
+          margin-top: 5px;
+          background-color:white;
+          
+        }
+   
+.productbox{
+    height: 20px;
+    width: 200px;
+    background-color: #f16179;
+    margin-left: 500px;
+    margin-top: 30PX;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;}
+
+
+    .thirdpagecontainer{
+    
+        height: 700px;
+        width: 1425px;
+        background-color:none;
+        margin-top: 30px;
+        }
+        .thiredmenu{
+            margin-top: 50px;
+            height:600px;
+            width: 1400px;
+            background-color:#7fd7eb;
+            border-radius: 20px;
+            margin-left: 10px;
+display: inline-block;
+        }
+        .thiredone{
+            margin-top: 120px;
+            height:480px;
+            width: 600px;
+            background-color:none;
+            border-radius: 20px;
+            margin-left: 80px;
+            display: inline-block;
+
+        }
+        .thiredtwo{
+            margin-top: 30px;
+            height:550px;
+            width: 675px;
+            background-color:none;
+            border-radius: 20px;
+            margin-right: 20px;
+            float: right;
+            display: inline-block;
+
+        }
+
+        .bestsaving{
+            height: 60px;
+            width: 300px;
+            background-color:none;
+            margin-left: 80px;
+            margin-top: 150PX;
+            text-align: center;
+            padding: 15px;
+            color: white;
+            
+        }
+        .para{
+            height: 80px;
+            width: 530px;
+            background-color:none;
+            margin-top: 40PX;
+            padding: 15px;
+            color: white;
+            text-align: left;
+
+        }   
+        
+        .buyseecontainer{
+            margin-top: 50px;
+            height: 60px;
+            width: 400px;
+            background-color: none;
+        }
+         .buynow{
+            height: 30px;
+            width: 100px;
+            background-color: #007bff;
+            margin-top: 10PX;
+            color: white;
+            padding-left: 10px;
+            display: inline-block;
+             padding-top: 10px;
+        }
+    .seemore{
+        height: 30px;
+        margin-top: 10PX;
+        width: 100px;
+        background-color:white;
+        float: right;
+       
+        margin-right: 160px;
+        color: black;
+        display: inline-block;
+        padding-top: 10px;
+        }
+        .fourthpagecontainer{
+    
+            height: 500px;
+            width: 1425px;
+            background-color:white;
+            margin-top: 10px;
+            display: inline-block;
+            
+            }
+            .whyshop{
+                height: 60px;
+                width: 1425px;
+              margin-top: 5px;
+              background-color:white;
+              color: black;
+              text-align: center;
+              font-size: large;
+
+            }
+            .fastdelivery{
+                margin-top: 100px;
+                height: 260px;
+                width: 370px;
+                background-color: #eeeeee;
+                margin-left: 60px;
+                text-align: center;
+                border-radius: 10px;
+              display: inline-block;
+                
+            }
+            .deliveryimage{
+
+              text-align: center;
+               padding-top: 20px;
+               padding-bottom: 10px; 
+            }
+            .content{
+                height: 30px;
+                width: 250px;
+                padding-top: 20px;
+                margin-left: 70px;
+                
+            }
+            .fifthmainpage{
+                height: 641px;
+                width: 1425px;
+              margin-top: 5px;
+              background-color:none;
+              color: black;
+              text-align: center;
+              padding-top: 10px;
+              display: inline-block;
+            }
+            .lovedonebox{
+                height: 641px;
+                width: 1420px;
+                background-color: #6f42c1;
+                margin-top: 10px;
+               border-radius: 25px;
+            }
+            .giftopenimage{
+                height: 650px;
+                width: 650px;
+                background-color:none;
+                display: inline-block;
+                margin-top: 10px;
+            }
+            .lovedtextbox{
+                height: 600px;
+                width: 770px;
+                background-color:none;
+               float: right;
+            }
+            .insidetext{
+                height: 60px;
+                width: 250px;
+                background-color:none;
+                margin-top: 250px;
+             text-align: left;
+             color: white;
+            }
+
+            .lastpara{
+                height: 60px;
+                width: 700px;
+                background-color:#6f42c1;
+             color: white;
+            padding-left: 0px;
+            margin-top: 20px;
+            
+            }
+            .secoundbuynow{
+                height: 30px;
+                width: 100px;
+                background-color: white;
+                margin-top: 10PX;
+                color:black;
+                padding-left: 9px;
+                display: inline-block;
+                 padding-top: 10px;
+            }
+        .secoundseemore{
+            height: 30px;
+            margin-top: 10PX;
+            width: 100px;
+            background-color:#9242dd;
+            float: right;
+           
+            margin-right: 160px;
+            color:white;
+            display: inline-block;
+            padding-top: 10px;
+            }
+            .sixthmainbox{
+                height: 641px;
+                width: 1425px;
+              margin-top: 75px;
+              background-color:white;
+              color: black;
+              text-align: center;
+              padding-top: 10px;
+              display: inline-block;
+            }
+            .lastcontact{
+                background-color:white;
+                height: 70px;
+                    width: 350px;
+                color:black;   
+                padding-top: 10px;
+                
+                padding-left: 50px;
+                }
+            .mapanddetailbox{
+height: 500px;
+width: 1250px;
+background-color:white;
+margin-left: 120px;
+margin-top: 20px;
+            }
+
+            .mapimage{
+                height: 500px;
+                width: 500px;
+                background-color:none;  
+                display: inline-block;
+            }
+
+            .detailedlist{
+                height: 500px;
+                width: 600px;
+                background-color:white;
+                float: right;  
+            }
+.name{
+    height: 40px;
+    width: 490px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 30px;
+    text-align: left;
+    padding-top:3px;
+    padding-left:4px;
+}
+.email{
+    height: 40px;
+    width: 490px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 30px;
+    text-align: left;
+    padding-top:3px;
+    padding-left:4px;
+}
+.phone{
+    height: 40px;
+    width: 490px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 30px;
+    text-align: left;
+    padding-top:3px;
+    padding-left:4px;
+}
+.message{
+    height: 80px;
+    width: 490px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 30px;
+    text-align: left;
+    padding-top:3px;
+    padding-left:4px;
+    border
+}
+
+.sendbox{
+    height: 20px;
+    width: 100px;
+    background-color: #f16179;
+    margin-left: 190px;
+    margin-top: 30PX;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    
+  }
+  .testimonial{
+    background-color:#007bff;
+    height: 70px;
+        width: 350px;
+    color:black;   
+    margin-left: 160px;
+    padding-top: 10px;
+    padding-left: 400px;  display: inline-block;
+    }
+    .finaldetail{
+        height: 500px;
+        width: 1400px;
+        background-color:orange;  
+       
+        margin-left: 10px;
+      
+    }
+    .authorname{
+        height: 200px;
+        width: 1000px;
+        background-color:white;  
+        margin-left: 90px;
+        margin-top: 10px;
+        border: 1px solid;
+    }
+    .Rochak{
+        color: #f16179;
+        margin-left: 85px;
+    }
+    .Defaulmodel{
+        color: gray;
+        margin-left: 85px;
+    } 
+    .Variouseditorspara{
+        color: black;
+        
+        background-color:rgb(188, 40, 40);
+        width: 860px;
+        margin-left: 15px;
+    }
+
+    .leftpinkbox{
+        height: 130px;
+        width: 30px;
+        background-color: #f16179;
+        margin-left: 195px;
+        margin-top: 50px;
+        display: inline-block;
+    }
+
+   
